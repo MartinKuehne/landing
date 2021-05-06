@@ -1,0 +1,12 @@
+.button-simple { 
+  background-color: rgb(249 252 255 / 26%);
+  color: #1f1f1f;
+  border: 1px solid rgb(249 252 255 / 41%);
+  padding: 8px 24px;
+}
+
+.button-simple:hover { 
+  background-color: #ffd2d2;
+  color: #fffcfc;
+  border: 1px solid #222;
+}
